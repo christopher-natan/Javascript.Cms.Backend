@@ -1,3 +1,3 @@
 # CMS Backend
 
-Javascripts for the CMS that I developed from scratch
+Javascripts for the CMS that I developed from scratch (own project)
