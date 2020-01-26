@@ -1,4 +1,4 @@
-# CMS and Roku Device Automation
+# CMS Backend
 Owner/Founder and Developer of the application. I developed this app from scratch in early year 2014 that includes:
     
 1. System Analysis
@@ -26,5 +26,8 @@ Owner/Founder and Developer of the application. I developed this app from scratc
 - Adobe Fireworks
 - Putty, HeidiSQL and WinSCP
 
-#### Project URL:
+#### Project Backend:
+http://admin.findstep.cmnworks.com/users/signin
+
+#### Project Frontend:
 http://findstep.cmnworks.com
