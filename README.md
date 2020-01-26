@@ -26,8 +26,8 @@ Owner/Founder and Developer of the application. I developed this app from scratc
 - Adobe Fireworks
 - Putty, HeidiSQL and WinSCP
 
-#### Project Backend:
+#### Backend:
 http://admin.findstep.cmnworks.com/users/signin
 
-#### Project Frontend:
+#### Frontend:
 http://findstep.cmnworks.com
