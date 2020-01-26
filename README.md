@@ -1,18 +1,30 @@
-# CMS Backend
+# CMS and Roku Device Automation
+Owner/Founder and Developer of the application. I developed this app from scratch in early year 2014 that includes:
+    
+1. System Analysis
+2. Database Designing
+3. Web Designining
+4. Frontend and Backend Programming
+5. Linux Server Installation and Configuration
+6. Strong Security
+7. Graphics Editing
+8. Web Administration
+9. Support and Maintenance
 
-JavaScripts for CMS that I built from scratch (own project). It demonstrate the way I handle codes using JavaScript technology.
-
-![alt tag](https://img.youtube.com/vi/9uKnxAddItc/hqdefault.jpg)
+![alt tag](http://47.75.1.113/img/findstep.jpg)
 
 #### CMS Version:
-- Version 3.1
+- Old version
 
 #### Technology and Tools:
-- PHP, nGinx, mySQL
+- PHP 7, nGinx, mySQL
 - CakePHP framework, jQuery and Bootstrap Libraries
-- Node.js, shell script
+- Node.js, Python, Shell script
+- AWS or AlibabaCloud
 - JetBrains PhpStorm
-- Dreamweaver
+- Adobe Dreamweaver
+- Adobe Fireworks
+- Putty, HeidiSQL and WinSCP
 
-#### Demo:
-Youtube: https://www.youtube.com/watch?v=9uKnxAddItc&feature=youtu.be
+#### Project URL:
+http://findstep.cmnworks.com
