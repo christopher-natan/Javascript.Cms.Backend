@@ -14,7 +14,7 @@ I developed the front-end and back-end from scratch in the early year 2014 that 
 
 ![alt tag](http://47.75.1.113/img/findstep.jpg)
 
-#### CMS Version:
+#### Automation Version:
 - Old version
 
 #### Technology and Tools:
