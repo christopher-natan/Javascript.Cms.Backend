@@ -17,10 +17,14 @@ Owner/Founder and Developer of the application. I developed this app from scratc
 - Old version
 
 #### Technology and Tools:
-- PHP 7, nGinx, mySQL
-- CakePHP framework, jQuery and Bootstrap Libraries
-- Node.js, Python, Shell script
-- AWS or AlibabaCloud
+- PHP7, nGinx, mySQL, Ubuntu
+- CakePHP framework, Javascript jQuery, Bootstrap Libraries
+- NodeJS, Python, Shell Script, CURL, REST
+- AWS and AlibabaCloud (currently for findstep.cmnworks.com)
+- Mobile: Android Java, TV: FireTV SDK
+- Partnership program section: Java Spring, Hibernate
+- Roku Device: Brightscript Programming Language
+
 - JetBrains PhpStorm
 - Adobe Dreamweaver
 - Adobe Fireworks
