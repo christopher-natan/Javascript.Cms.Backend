@@ -1,5 +1,6 @@
 # CMS Backend
-Owner/Founder and Developer of the application. I developed this app from scratch in early year 2014 that includes:
+Owner/Founder and Developer of the application.
+I developed the front-end and back-end from scratch in the early year 2014 that includes:
     
 1. System Analysis
 2. Database Designing
