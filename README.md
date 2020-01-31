@@ -30,6 +30,9 @@ I developed the front-end and back-end from scratch in the early year 2014 that 
 - Adobe Dreamweaver
 - Adobe Fireworks
 - Putty, HeidiSQL and WinSCP
+- Android Studio
+- VSCode
+- IntelliJ IDEA Community Edition
 
 #### Backend:
 http://admin.findstep.cmnworks.com/users/signin
