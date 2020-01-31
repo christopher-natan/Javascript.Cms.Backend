@@ -26,13 +26,13 @@ I developed the front-end and back-end from scratch in the early year 2014 that 
 - Partnership program section: Java Spring, Hibernate
 - Roku Device: Brightscript Programming Language
 
-- JetBrains PhpStorm
-- Adobe Dreamweaver
-- Adobe Fireworks
-- Putty, HeidiSQL and WinSCP
-- Android Studio
-- VSCode
-- IntelliJ IDEA Community Edition
++ JetBrains PhpStorm
++ Adobe Dreamweaver
++ Adobe Fireworks
++ Putty, HeidiSQL and WinSCP
++ Android Studio
++ VSCode
++ IntelliJ IDEA Community Edition
 
 #### Backend:
 http://admin.findstep.cmnworks.com/users/signin
