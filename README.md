@@ -37,5 +37,5 @@ I developed the front-end and back-end from scratch in the early year 2014 that 
 #### Backend:
 http://admin.findstep.cmnworks.com/users/signin
 
-#### Frontend:
+#### Website:
 http://findstep.cmnworks.com
