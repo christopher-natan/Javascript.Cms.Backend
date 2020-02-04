@@ -12,7 +12,7 @@ I developed the front-end and back-end from scratch in the early year 2014 that 
 8. Web Administration
 9. Support and Maintenance
 
-![alt tag](http://47.75.1.113/img/findstep.jpg)
+![alt tag](http://www.cmnworks.com/img/findstep.jpg)
 
 #### Automation Version:
 - Old version
