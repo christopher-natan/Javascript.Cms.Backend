@@ -1,38 +1,32 @@
 # CMS Backend
-Owner/Founder and Developer of the application.
-I developed the front-end and back-end from scratch in the early year 2014 that includes:
-    
-1. System Analysis
-2. Database Designing
-3. Web Designining
-4. Frontend and Backend Programming
-5. Linux Server Installation and Configuration
-6. Strong Security
-7. Graphics Editing
-8. Web Administration
-9. Support and Maintenance
+#### Responsibilities:
+
+- Conceptualization
+- System Analysis
+- Database Designing
+- Web and Graphics Designing
+- Frontend and Backend Programming
+- Linux Ubuntu Server Installation and Configuration
+- FireTV, Android and Roku development
+- Security Implementation
+- Web Administration
+- Support and Maintenance
 
 ![alt tag](http://www.cmnworks.com/img/findstep.jpg)
 
 #### Automation Version:
 - Old version
 
-#### Technology and Tools:
-- PHP7, nGinx, mySQL, Ubuntu
-- CakePHP framework, Javascript jQuery, Bootstrap Libraries
-- NodeJS, Python, Shell Script, CURL, REST
-- AWS and AlibabaCloud (currently for findstep.cmnworks.com)
-- Mobile: Android Java, TV: FireTV SDK
-- Partnership program section: Java Spring, Hibernate
-- Roku Device: Brightscript Programming Language
-
-+ JetBrains PhpStorm
-+ Adobe Dreamweaver
-+ Adobe Fireworks
-+ Putty, HeidiSQL and WinSCP
-+ Android Studio
-+ VSCode
-+ IntelliJ IDEA Community Edition
+#### Technology:
+- Java and Android SDK
+- PHP, MySQL, Bootstrap and jQuery
+- MySQL and Memcached, previously Redis
+- BrightScript
+- AWS and Alibaba Cloud
+- Hosted in Linux Ubuntu
+- CakePHP Framework
+- Payment System: Paypal, Payza
+- All graphics used are copyrighted
 
 #### Backend:
 http://admin.findstep.cmnworks.com/users/signin
