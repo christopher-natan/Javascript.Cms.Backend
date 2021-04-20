@@ -12,7 +12,7 @@
 - Web Administration
 - Support and Maintenance
 
-![alt tag](http://www.cmnworks.com/img/findstep.jpg)
+![alt tag](https://media-exp1.licdn.com/dms/image/C5622AQFVdeQi-I1JKg/feedshare-shrink_2048_1536/0/1618944040668?e=1622073600&v=beta&t=c9X-0u_RgzLYHqEo7O1NgLzIHniKJwPcgN0w2H7TVk0)
 
 #### Automation Version:
 - Old version
@@ -29,7 +29,7 @@
 - All graphics used are copyrighted
 
 #### Backend:
-http://admin.findstep.cmnworks.com/users/signin
+http://cmnworks.eastus.cloudapp.azure.com:8080/users/signin
 
 #### Website:
-http://findstep.cmnworks.com
+http://cmnworks.eastus.cloudapp.azure.com/
