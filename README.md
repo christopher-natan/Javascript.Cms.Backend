@@ -29,7 +29,7 @@
 - All graphics used are copyrighted
 
 #### Backend:
-http://cmnworks.eastus.cloudapp.azure.com:8080/users/signin
+http://findstep.cmnworks.com:8080/creates/channel
 
 #### Website:
-http://cmnworks.eastus.cloudapp.azure.com/
+http://findstep.cmnworks.com
