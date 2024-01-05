@@ -1,35 +1,20 @@
-# CMS Backend
-#### Responsibilities:
+# FindStep Roku Channel Maker Backend
+#### The spark for this innovative Automatic Roku Channel Creator ignited in my mind, fueled by inspiration drawn from the incredible individuals that surround me.
 
-- Conceptualization
-- System Analysis
-- Database Designing
-- Web and Graphics Designing
-- Frontend and Backend Programming
-- Linux Ubuntu Server Installation and Configuration
-- FireTV, Android and Roku development
-- Security Implementation
-- Web Administration
-- Support and Maintenance
+- Brightscript - Roku Device Programming Language
+- PHP 5.6 with CakePHP Framework
+- CSS Bootstrap 3
+- Javascript, jQuery
+- Java for Partnership Program
+- Python for Automation
+- MySQL for Database
+- IntelliJ, Dreamweaver
+- Adobe Fireworks, Adobe Illustrator
+- Bash for Automation, Git
+- Roku Device, TV
 
-![alt tag](https://media-exp1.licdn.com/dms/image/C5622AQFVdeQi-I1JKg/feedshare-shrink_2048_1536/0/1618944040668?e=1622073600&v=beta&t=c9X-0u_RgzLYHqEo7O1NgLzIHniKJwPcgN0w2H7TVk0)
+#### CMS Admin:
+https://findstep.cmnworks.com:8080/users/signin
 
-#### Automation Version:
-- Old version
-
-#### Technology:
-- Java and Android SDK
-- PHP, MySQL, Bootstrap and jQuery
-- MySQL and Memcached, previously Redis
-- BrightScript
-- AWS and Alibaba Cloud
-- Hosted in Linux Ubuntu
-- CakePHP Framework
-- Payment System: Paypal, Payza
-- All graphics used are copyrighted
-
-#### Backend:
-http://findstep.cmnworks.com:8080/creates/channel
-
-#### Website:
-http://findstep.cmnworks.com
+#### HOME:
+https://findstep.cmnworks.com/about
